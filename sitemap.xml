@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://yawnt.github.com/blog/2013/02/14/ohai/</loc>
+        <lastmod>2013-02-14T19:56:25+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://yawnt.github.com/blog/archives/</loc>
-        <lastmod>2013-02-14T19:25:41+01:00</lastmod>
+        <lastmod>2013-02-14T19:56:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://yawnt.github.com/</loc>
-        <lastmod>2013-02-14T19:25:41+01:00</lastmod>
+        <lastmod>2013-02-14T19:56:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://yawnt.github.com/robots.txt</loc>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://yawnt.github.com/archives/</loc>
-        <lastmod>2013-02-14T19:25:41+01:00</lastmod>
+        <lastmod>2013-02-14T19:56:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://yawnt.github.com/links/</loc>

@@ -4,7 +4,7 @@
   <title><![CDATA[しゅはり]]></title>
   <link href="http://yawnt.github.com/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
-  <updated>2013-02-14T19:38:23+01:00</updated>
+  <updated>2013-02-14T19:56:41+01:00</updated>
   <id>http://yawnt.github.com/</id>
   <author>
     <name><![CDATA[yawnt]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ohai]]></title>
+    <link href="http://yawnt.github.com/blog/2013/02/14/ohai/"/>
+    <updated>2013-02-14T19:55:00+01:00</updated>
+    <id>http://yawnt.github.com/blog/2013/02/14/ohai</id>
+    <content type="html"><![CDATA[<p>o hai everyone,
+let&#8217;s see what this blog thing is all about..
+どうぞよろしく &lt;(<sup>_<sup>)></sup></sup></p>
+]]></content>
+  </entry>
   
 </feed>
