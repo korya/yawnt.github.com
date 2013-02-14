@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[しゅはり]]></title>
+  <link href="http://yawnt.github.com/atom.xml" rel="self"/>
+  <link href="http://yawnt.github.com/"/>
+  <updated>2013-02-14T19:38:23+01:00</updated>
+  <id>http://yawnt.github.com/</id>
+  <author>
+    <name><![CDATA[yawnt]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
