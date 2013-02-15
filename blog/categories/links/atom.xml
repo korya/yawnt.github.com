@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[しゅはり]]></title>
-  <link href="http://yawnt.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: links | しゅはり]]></title>
+  <link href="http://yawnt.github.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
   <updated>2013-02-16T00:02:57+01:00</updated>
   <id>http://yawnt.github.com/</id>
@@ -18,11 +18,11 @@
     <link href="http://yawnt.github.com/blog/2013/02/15/on-compilers-and-interpreters/"/>
     <updated>2013-02-15T23:48:00+01:00</updated>
     <id>http://yawnt.github.com/blog/2013/02/15/on-compilers-and-interpreters</id>
-    <content type="html"><![CDATA[<p>i&#8217;ve lately started to become interested more and more in compilers, interpreters and programming <br>
-language design overall&#8230; so this is a collection of stuff i&#8217;ve found (and mostly still have to <br>
-read :&lt; ).. maybe it&#8217;ll be of use to someone :D ..</p>
+    <content type="html"><![CDATA[<p>i've lately started to become interested more and more in compilers, interpreters and programming <br>
+language design overall... so this is a collection of stuff i've found (and mostly still have to <br>
+read :&lt; ).. maybe it'll be of use to someone :D ..</p>
 
-<p>i don&#8217;t plan to include links to docs and such, because it&#8217;s trivial, but i do plan to update the <br>
+<p>i don't plan to include links to docs and such, because it's trivial, but i do plan to update the <br>
 list as i find more stuff</p>
 
 <h3>LLVM</h3>
@@ -51,18 +51,7 @@ list as i find more stuff</p>
 
 <p>PS: this is on github (https://github.com/yawnt/yawnt.github.com) so you can actually fork an contribute to this list, how cool is that?</p>
 
-<p>PPS: thanks to <a href="https://twitter.com/Bronsa_">@Bronsa_</a> for helping me when i&#8217;m just too stupid to grasp some stuff :P</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ohai]]></title>
-    <link href="http://yawnt.github.com/blog/2013/02/14/ohai/"/>
-    <updated>2013-02-14T19:55:00+01:00</updated>
-    <id>http://yawnt.github.com/blog/2013/02/14/ohai</id>
-    <content type="html"><![CDATA[<p>o hai everyone,
-let&#8217;s see what this blog thing is all about.. <br/>
-どうぞよろしく (╯°□°）╯︵ ┻━┻</p>
+<p>PPS: thanks to <a href="https://twitter.com/Bronsa_">@Bronsa_</a> for helping me when i'm just too stupid to grasp some stuff :P</p>
 ]]></content>
   </entry>
   
