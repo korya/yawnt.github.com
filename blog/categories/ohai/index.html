@@ -1,3 +1,4 @@
+
 <!doctype html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
@@ -12,8 +13,10 @@
        More info: h5bp.com/b/378 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <title>links |  yawnt</title>
+  <title>Category: ohai |  yawnt</title>
   <meta name="author" content="yawnt">
+  
+    <meta name="description" content="Category: ohai"/>
   
 
   
@@ -36,63 +39,64 @@
   <script src="/javascripts/libs/modernizr-2.0.6.min.js"></script>
 </head>
 
-<body id="article">
 
-  <div id="container">
-    <header>
+<body>
+	<header id="header" class="inner"><header>
     <a href="http://yawnt.github.com">Home</a>
 </header>
-
-    <article>
-  <h1 class="article-title">Links</h1>
-  <div class="sharing">
-  
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://yawnt.github.com/links/index.html" data-via="yawnt" data-counturl="http://yawnt.github.com/links/index.html" >Tweet</a>
-  
-  
+</header>
+	
+		
+<div id="banner" class="inner">
+	<div class="container">
+		<ul class="feed"></ul>
+	</div>
+	<small><a href="http://twitter.com/yawnt">yawnt</a> @ <a href="http://twitter.com">Twitter</a></small>
+	<div class="loading">Loading...</div>
 </div>
-
-  <div class="article-content">
-</div>
-</article>
-
-        <footer>
-
-    </footer>
-
-  </div>
-
-    <!-- JavaScript at the bottom for fast page loading -->
-
-  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\/script>')</script>
-
-
-  <!-- scripts concatenated and minified via ant build script-->
-  <script defer src="/javascripts/app.js"></script>
-  <!-- end scripts-->
+<script src="/javascripts/twitter.js"></script>
+<script type="text/javascript">
+	(function($){
+		$('#banner').getTwitterFeed('yawnt', 4, false);
+	})(jQuery);
+</script>
 
 	
+	<div id="content" class="inner">
+	
 
-  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
-       chromium.org/developers/how-tos/chrome-frame-getting-started -->
-  <!--[if lt IE 7 ]>
-    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-  <![endif]-->
- 
 
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
+	
+	
+	<section class="archives"><h1 class="year">2013</h1>
 
+<article>
+	<h2 class="title"><a href="/blog/2013/02/14/ohai/">ohai</a></h2>
+	<div class="meta">
+		<div class="date">Feb 14</div>
+		<div class="tags">
+
+
+	<a class='category' href='/blog/categories/ohai/'>ohai</a>
+
+
+</div>
+	    
+	</div>
+</article>
+
+</div>
+	<footer id="footer" class="inner">    <footer>
+
+    </footer>
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
 
 
 
@@ -101,4 +105,3 @@
 
 </body>
 </html>
-
