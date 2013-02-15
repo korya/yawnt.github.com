@@ -4,7 +4,7 @@
   <title><![CDATA[しゅはり]]></title>
   <link href="http://yawnt.github.com/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
-  <updated>2013-02-16T00:02:57+01:00</updated>
+  <updated>2013-02-16T00:05:18+01:00</updated>
   <id>http://yawnt.github.com/</id>
   <author>
     <name><![CDATA[yawnt]]></name>
@@ -18,12 +18,9 @@
     <link href="http://yawnt.github.com/blog/2013/02/15/on-compilers-and-interpreters/"/>
     <updated>2013-02-15T23:48:00+01:00</updated>
     <id>http://yawnt.github.com/blog/2013/02/15/on-compilers-and-interpreters</id>
-    <content type="html"><![CDATA[<p>i&#8217;ve lately started to become interested more and more in compilers, interpreters and programming <br>
-language design overall&#8230; so this is a collection of stuff i&#8217;ve found (and mostly still have to <br>
-read :&lt; ).. maybe it&#8217;ll be of use to someone :D ..</p>
+    <content type="html"><![CDATA[<p>i&#8217;ve lately started to become interested more and more in compilers, interpreters and programming language design overall&#8230; so this is a collection of stuff i&#8217;ve found (and mostly still have to read :&lt; ).. maybe it&#8217;ll be of use to someone :D ..</p>
 
-<p>i don&#8217;t plan to include links to docs and such, because it&#8217;s trivial, but i do plan to update the <br>
-list as i find more stuff</p>
+<p>i don&#8217;t plan to include links to docs and such, because it&#8217;s trivial, but i do plan to update the list as i find more stuff</p>
 
 <h3>LLVM</h3>
 
