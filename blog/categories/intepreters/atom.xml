@@ -4,7 +4,7 @@
   <title><![CDATA[Category: intepreters | しゅはり]]></title>
   <link href="http://yawnt.github.com/blog/categories/intepreters/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
-  <updated>2013-02-16T09:53:27+01:00</updated>
+  <updated>2013-02-16T09:55:31+01:00</updated>
   <id>http://yawnt.github.com/</id>
   <author>
     <name><![CDATA[yawnt]]></name>
@@ -30,7 +30,6 @@
 <li><a href="http://news.ycombinator.com/item?id=5149404">Discussion on HN with various tutorials posted</a></li>
 <li><a href="http://www.ibm.com/developerworks/library/os-createcompilerllvm2/index.html">Creating a working compiler with LLVM (Part 2)</a></li>
 <li><a href="http://www.aosabook.org/en/llvm.html">Architecture of open source applications: LLVM</a></li>
-<li><a href="https://github.com/benbjohnson/llvm-c-kaleidoscope">Kaleidoscope implementation with LLVM-C</a></li>
 <li><a href="http://hackage.haskell.org/trac/ghc/wiki/Commentary/Compiler/Backends/LLVM/Design">LLVM Backend Design (GHC)</a></li>
 <li><a href="http://www.cs.cmu.edu/afs/cs/academic/class/15745-s12/public/lectures/L3-LLVM-Part1.pdf">The LLVM Compiler Framework and Infrastructure</a></li>
 <li><a href="http://eli.thegreenplace.net/2012/11/24/life-of-an-instruction-in-llvm/">Life on an instruction in LLVM</a></li>
@@ -118,6 +117,7 @@
 <li><a href="https://github.com/yawnt/tinyscheme">TinyScheme</a></li>
 <li><a href="https://github.com/proglangclass/vm">Stack based VM and JIT compiler</a></li>
 <li><a href="https://github.com/catseye/minischeme">MiniScheme</a></li>
+<li><a href="https://github.com/benbjohnson/llvm-c-kaleidoscope">Kaleidoscope implementation with LLVM-C</a></li>
 </ul>
 
 
