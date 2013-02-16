@@ -4,7 +4,7 @@
   <title><![CDATA[Category: intepreters | しゅはり]]></title>
   <link href="http://yawnt.github.com/blog/categories/intepreters/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
-  <updated>2013-02-16T09:41:21+01:00</updated>
+  <updated>2013-02-16T09:48:03+01:00</updated>
   <id>http://yawnt.github.com/</id>
   <author>
     <name><![CDATA[yawnt]]></name>
@@ -99,6 +99,19 @@
 
 <ul>
 <li><a href="http://gchandbook.org/">The Garbage Collection Handbook</a></li>
+</ul>
+
+
+<h3>Code</h3>
+
+<ul>
+<li><a href="https://github.com/steeleduncan/TinyClojure">TinyClojure</a></li>
+<li><a href="https://github.com/eduardoejp/jormungandr">Prototype-like object system based on functions</a></li>
+<li><a href="https://github.com/GenTiradentes/tinyvm">TinyVM</a></li>
+<li><a href="https://github.com/Gozala/wisp">Homoiconic JS</a></li>
+<li><a href="https://github.com/yawnt/tinyscheme">TinyScheme</a></li>
+<li><a href="https://github.com/proglangclass/vm">Stack based VM and JIT compiler</a></li>
+<li><a href="https://github.com/catseye/minischeme">MiniScheme</a></li>
 </ul>
 
 
