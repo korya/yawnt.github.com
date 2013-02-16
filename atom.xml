@@ -4,7 +4,7 @@
   <title><![CDATA[しゅはり]]></title>
   <link href="http://yawnt.github.com/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
-  <updated>2013-02-16T09:49:04+01:00</updated>
+  <updated>2013-02-16T09:50:42+01:00</updated>
   <id>http://yawnt.github.com/</id>
   <author>
     <name><![CDATA[yawnt]]></name>
@@ -18,7 +18,7 @@
     <link href="http://yawnt.github.com/blog/2013/02/15/on-compilers-and-interpreters/"/>
     <updated>2013-02-15T23:48:00+01:00</updated>
     <id>http://yawnt.github.com/blog/2013/02/15/on-compilers-and-interpreters</id>
-    <content type="html"><![CDATA[<p>since i&#8217;ve started to become more and more interested in compilers, interpreters and programming language design overall, i thought maybe this collection of stuff i&#8217;ve found (and mostly still have to read :&lt; ) could be useful to somone&#8230; my plan is to update the list as i find more stuff</p>
+    <content type="html"><![CDATA[<p>since i&#8217;ve started to become more and more interested in compilers, interpreters and programming language design overall, i thought maybe this collection of stuff i&#8217;ve found (and mostly still have to read :&lt; ) might be useful to someone&#8230; my plan is to update the list as i find more stuff</p>
 
 <p>i haven&#8217;t (and won&#8217;t) include links to official docs because it&#8217;s obvious to me that someone should look there first.</p>
 
