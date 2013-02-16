@@ -4,7 +4,7 @@
   <title><![CDATA[Category: intepreters | しゅはり]]></title>
   <link href="http://yawnt.github.com/blog/categories/intepreters/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
-  <updated>2013-02-16T00:36:52+01:00</updated>
+  <updated>2013-02-16T09:41:21+01:00</updated>
   <id>http://yawnt.github.com/</id>
   <author>
     <name><![CDATA[yawnt]]></name>
@@ -18,9 +18,11 @@
     <link href="http://yawnt.github.com/blog/2013/02/15/on-compilers-and-interpreters/"/>
     <updated>2013-02-15T23:48:00+01:00</updated>
     <id>http://yawnt.github.com/blog/2013/02/15/on-compilers-and-interpreters</id>
-    <content type="html"><![CDATA[<p>i've lately started to become interested more and more in compilers, interpreters and programming language design overall... so this is a collection of stuff i've found (and mostly still have to read :&lt; ).. maybe it'll be of use to someone :D ..</p>
+    <content type="html"><![CDATA[<p>since i've started to become more and more interested in compilers, interpreters and programming language design overall, i thought maybe this collection of stuff i've found (and mostly still have to read :&lt; ) could be useful to somone... my plan is to update the list as i find more stuff</p>
 
-<p>i don't plan to include links to docs and such, because it's trivial, but i do plan to update the list as i find more stuff</p>
+<p>i haven't (and won't) include links to official docs because it's obvious to me that someone should look there first.</p>
+
+<h2>Links</h2>
 
 <h3>LLVM</h3>
 
@@ -32,6 +34,7 @@
 <li><a href="http://hackage.haskell.org/trac/ghc/wiki/Commentary/Compiler/Backends/LLVM/Design">LLVM Backend Design (GHC)</a></li>
 <li><a href="http://www.cs.cmu.edu/afs/cs/academic/class/15745-s12/public/lectures/L3-LLVM-Part1.pdf">The LLVM Compiler Framework and Infrastructure</a></li>
 <li><a href="http://eli.thegreenplace.net/2012/11/24/life-of-an-instruction-in-llvm/">Life on an instruction in LLVM</a></li>
+<li><a href="http://llvm.org/pubs/2002-12-LattnerMSThesis.pdf">LLVM - An infrastructure for multi stage optimization</a></li>
 </ul>
 
 
@@ -42,22 +45,68 @@
 <li><a href="https://services.brics.dk/java/courseadmin/VM/pages/Virtual+Machines+for+Programming+Languages">Virtual Machines for Programming Languages</a></li>
 <li><a href="http://rsms.me/2012/10/14/sol-a-sunny-little-virtual-machine.html">Sol - A sunny little virtual machine</a></li>
 <li><a href="http://tratt.net/laurie/tech_articles/articles/fast_enough_vms_in_fast_enough_time">Fast enough VMs in fast enough times</a></li>
+<li><a href="http://shimonschocken.com/wp-content/uploads/2011/10/Virtual-machines.pdf">Virtual Machines: Abstractions and implementations</a></li>
+<li><a href="http://www.ps.uni-saarland.de/Papers/abstracts/multivm.pdf">A Virtual Machine for Multi Language execution</a></li>
+<li><a href="http://suif.stanford.edu/papers/ivme03.pdf">Joeq - A Virtual Machine and Compiler Infrastructure</a></li>
 </ul>
 
 
-<h3>LISP</h3>
+<h3>Compilers</h3>
+
+<ul>
+<li><a href="http://elvis.rowan.edu/~bergmann/books/c_cpp/Text/C_CppEd.pdf">Compiler Design - Theory, Tools and Examples</a></li>
+<li><a href="ftp://ftp-developpez.com/general/cours/compiler-construction-wirth.pdf">Compiler construction</a></li>
+<li><a href="http://scifac.ru.ac.za/compilers/conts.htm">Compilers and Compiler generators</a></li>
+</ul>
+
+
+<h3>Interpreters</h3>
 
 <ul>
 <li><a href="http://norvig.com/lispy.html">How to write a lisp interpreter in Python</a></li>
 <li><a href="http://norvig.com/lispy2.html">How to write an even better lisp interpreter in Python</a></li>
+<li><a href="http://thingsaaronmade.com/blog/bootstrapping-a-prototype-based-object-oriented-language-in-44-lines-of-code.html">Boostrapping a prototype based object model</a></li>
+<li><a href="http://nakkaya.com/2010/08/24/a-micro-manual-for-lisp-implemented-in-c/">A micro manual for lisp implemented in C</a></li>
+<li><a href="http://stackoverflow.com/questions/2610716/small-readable-scheme-interpreter-in-c">Small and readable scheme interpreters</a></li>
+</ul>
+
+
+<h3>Garbage Collection</h3>
+
+<ul>
+<li><a href="http://furious-waterfall-55.heroku.com/ruby-guide/internals/gc.html">Rare are GC talks</a></li>
+</ul>
+
+
+<h2>Books</h2>
+
+<h3>Compilers</h3>
+
+<ul>
+<li><a href="http://dickgrune.com/Books/MCD_2nd_Edition/">Modern Compiler Design 2nd Edition</a></li>
+</ul>
+
+
+<h3>Interpreters</h3>
+
+<ul>
+<li><a href="http://mitpress.mit.edu/sicp/full-text/book/book.html">SICP</a></li>
+<li><a href="http://pagesperso-systeme.lip6.fr/Christian.Queinnec/WWW/LiSP.html">Lisp in Small Pieces</a></li>
+</ul>
+
+
+<h3>Garbage Collection</h3>
+
+<ul>
+<li><a href="http://gchandbook.org/">The Garbage Collection Handbook</a></li>
 </ul>
 
 
 <p>stay tuned</p>
 
-<p>PS: this is on <a href="https://github.com/yawnt/yawnt.github.com">github</a> so you can actually fork an contribute to this list, how cool is that?</p>
+<p>PS: this blog is on <a href="https://github.com/yawnt/yawnt.github.com">github</a> so you can actually fork an contribute to this list, how cool is that?</p>
 
-<p>PPS: thanks to <a href="https://twitter.com/Bronsa_">@Bronsa_</a> for helping me when i'm just too stupid to grasp some stuff :P</p>
+<p>PPS: thanks to <a href="https://twitter.com/Bronsa_">@Bronsa_</a> for helping me out when i'm too stupid to grasp some stuff :P</p>
 ]]></content>
   </entry>
   
