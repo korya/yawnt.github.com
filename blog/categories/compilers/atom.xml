@@ -4,7 +4,7 @@
   <title><![CDATA[Category: compilers | しゅはり]]></title>
   <link href="http://yawnt.github.com/blog/categories/compilers/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
-  <updated>2013-02-16T14:09:25+01:00</updated>
+  <updated>2013-02-21T15:22:24+01:00</updated>
   <id>http://yawnt.github.com/</id>
   <author>
     <name><![CDATA[yawnt]]></name>
@@ -49,6 +49,7 @@
 <li><a href="http://suif.stanford.edu/papers/ivme03.pdf">Joeq - A Virtual Machine and Compiler Infrastructure</a></li>
 <li><a href="http://www.niccolai.cc/index.php?itemid=492">First draft of the Falcon organic VM specification</a></li>
 <li><a href="http://www.niccolai.cc/index.php?itemid=503">Parallel Scheduler for the Falcon organic VM</a></li>
+<li><a href="http://selflanguage.org/documentation/published/index.html">A Self Bibliography</a></li>
 </ul>
 
 
@@ -129,6 +130,14 @@
 <p>PS: this blog is on <a href="https://github.com/yawnt/yawnt.github.com">github</a> so you can actually submit an issue and i'll add your links to this list, how cool is that?</p>
 
 <p>PPS: thanks to <a href="https://twitter.com/Bronsa_">@Bronsa_</a> for helping me out when i'm too stupid to grasp some stuff :P</p>
+
+<p>Credits (people who contributed):</p>
+
+<ul>
+<li><a href="http://www.niccolai.cc">Giancarlo Niccolai</a></li>
+<li>Rob Grainger</li>
+</ul>
+
 ]]></content>
   </entry>
   
