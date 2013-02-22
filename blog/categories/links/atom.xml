@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | しゅはり]]></title>
   <link href="http://yawnt.github.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://yawnt.github.com/"/>
-  <updated>2013-02-21T15:22:24+01:00</updated>
+  <updated>2013-02-22T08:58:50+01:00</updated>
   <id>http://yawnt.github.com/</id>
   <author>
     <name><![CDATA[yawnt]]></name>
@@ -97,6 +97,7 @@
 <ul>
 <li><a href="http://mitpress.mit.edu/sicp/full-text/book/book.html">SICP</a></li>
 <li><a href="http://pagesperso-systeme.lip6.fr/Christian.Queinnec/WWW/LiSP.html">Lisp in Small Pieces</a></li>
+<li><a href="http://www.civilized.com/files/lispbook.pdf">Interpreting Lisp</a></li>
 </ul>
 
 
@@ -136,6 +137,7 @@
 <ul>
 <li><a href="http://www.niccolai.cc">Giancarlo Niccolai</a></li>
 <li>Rob Grainger</li>
+<li>Gary D. Knott</li>
 </ul>
 
 ]]></content>
